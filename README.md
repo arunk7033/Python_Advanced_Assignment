@@ -27,6 +27,9 @@
 ## Assignment 10
  - *This assignment tests the concepts of __ __getattr__ __ vs. __ __getattribute__ __ ", Properties vs. Descriptors and Functionality Differences.*
 
+## Assignment 11
+ - *This assignment tests the concepts of Metaclass, Best Way to Declare a Class's Metaclass, Overlap of Class Decorators with Metaclasses for Handling Classes and Overlap of Class Decorators with Metaclasses for Handling Instances.*
+
 
 
 
