@@ -24,6 +24,9 @@
 ## Assignment 8
  - *This assignment tests the concepts of Latest User-Defined Exception Constraints in Python 3.X, Matching Class-Based Exceptions to Handlers, Attaching Context Information to Exception Artifacts, Specifying the Text of an Exception Object's Error Message and Avoidance of String-Based Exceptions.*
 
+## Assignment 10
+ - *This assignment tests the concepts of .*__getattr__ vs. __getattribute__, Properties vs. Descriptors and Functionality Differences.*
+
 
 
 
