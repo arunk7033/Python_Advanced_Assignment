@@ -30,6 +30,5 @@
 ## Assignment 11
  - *This assignment tests the concepts of Metaclass, Best Way to Declare a Class's Metaclass, Overlap of Class Decorators with Metaclasses for Handling Classes and Overlap of Class Decorators with Metaclasses for Handling Instances.*
 
-
-
-
+## Assignment 15
+ - *This assignment tests the concepts of Python 3.8 New Features, Monkey Patching in Python, Shallow Copy vs. Deep Copy, Maximum Possible Length of an Identifier and Generator Comprehension.*
